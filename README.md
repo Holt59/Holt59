@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My E-Stats](https://github-readme-stats.vercel.app/api?username=Holt59&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p style="text-align: center;">
+  
+[![My E-Stats](https://github-readme-stats.vercel.app/api?username=holt59&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
