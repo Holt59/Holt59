@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p style="text-align: center;">
   
-[![My E-Stats](https://github-readme-stats.vercel.app/api?username=holt59&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=holt59&show_icons=true&theme=transparent&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Holt59&layout=compact&theme=transparent&count_private=true)
 
 </p>
